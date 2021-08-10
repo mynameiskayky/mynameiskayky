@@ -1,6 +1,6 @@
 ### Olá, meu nome é Kayky 👋
 
-💻 front-end web development
+💻 Sou Desenvolvedor Web Front-End em contante evolução...
 
 
 
