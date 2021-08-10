@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, meu nome é Kayky 👋
+
+💻 front-end web development
+
+
 
  <div>
   <a href="https://github.com/mynameiskayky">
