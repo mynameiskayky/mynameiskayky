@@ -1,7 +1,7 @@
 ### Olá, meu nome é Kayky 👋
 
 💻 Sou Desenvolvedor Web Front-End em contante evolução... 
-<br> Com muita dedicação e estudo, me dedico a um ano na área de tecnologia
+* Com muita dedicação e estudo, me dedico a um ano na área de tecnologia
 * Meu email: kaykyvieiraa@hotmail.com
 
  <div>
