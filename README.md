@@ -2,6 +2,7 @@
 
 💻 Sou Desenvolvedor Web Front-End em contante evolução... 
 <br> Com muita dedicação e estudo, me dedico a um ano na área de tecnologia
+* Meu email: kaykyvieiraa@hotmail.com
 
  <div>
   <a href="https://github.com/mynameiskayky">
