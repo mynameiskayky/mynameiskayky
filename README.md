@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/mynameiskayky/f2e742b46ee52af92d8f00f815e1f9ae/raw/a80c057def776cb92a476ad7f7abd321dad68f96/githubcard.svg"/>
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kayky Vieira</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="300px">, I'm Kayky Vieira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameiskayky&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 I'm a development student focused on the front end, and a future software engineer. Software Engineer I Front-End Developer I Web Developer
