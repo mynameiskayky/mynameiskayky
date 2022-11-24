@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">I am a Front-end programmer. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences.</p>
+<p align="left">
+  I'm a developer specializing in creating beautiful, high-performance websites from<br> extraordinary designs.
+
+  It all started when I discovered the inspect element as a kid, and now I build cool<br> stuff on the internet.
+
+  I'm passionate about what I do, and the art of creating new, amazing and unique things further<br> expands that passion within me.</p>
 
 ###
 
