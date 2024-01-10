@@ -48,3 +48,10 @@ In the overview below you will find my most recent work experience:
 [**Lumx Studios**](https://www.lumxstudios.com/) • Internship \
 languages and technologies: `React`, `TypeScript`, `JavaScript`, `Sass`\
 Co-developed: [55Unity](https://www.55unity.com/), [Seamore](https://www.seamore.xyz/)
+
+<br>
+
+###
+
+<a href="https://app.daily.dev/iamkayky_exec"><img src="https://api.daily.dev/devcards/69ec9140a5bf47f2b8361ce30a387a0a.png?r=6l2" width="400" alt="Kayky Vieira's Dev Card"/></a>
+
