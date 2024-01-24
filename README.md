@@ -52,6 +52,8 @@ Co-developed: [55Unity](https://www.55unity.com/), [Seamore](https://www.seamore
 <br>
 
 ###
-
+<div>
 <a href="https://app.daily.dev/iamkayky_exec"><img src="https://api.daily.dev/devcards/69ec9140a5bf47f2b8361ce30a387a0a.png?r=6l2" width="400" alt="Kayky Vieira's Dev Card"/></a>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/659d9ac9ae22c125234e64d5?variant=dark&roadmaps=nodejs%2Cbackend" alt="roadmap.sh"/></a>
+</div>
 
